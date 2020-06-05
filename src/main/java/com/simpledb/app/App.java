@@ -1,5 +1,3 @@
-package main.java.com.simpledb.app;
-
 import java.util.Scanner;
 
 public class App {
